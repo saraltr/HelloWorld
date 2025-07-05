@@ -2,7 +2,7 @@
 
 Hello World simple module that displays a randomly selected greeting message
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/a_o5EKyDW00)
 
 # Development Environment
 
